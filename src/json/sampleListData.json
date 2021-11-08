@@ -1,0 +1,52 @@
+{
+    "categoryA": {
+        "title": "category A",
+        "items": [
+            {
+                "name": "agreement_1",
+                "message": "Agreement 1",
+                "required": true
+            },
+            {
+                "name": "agreement_2",
+                "message": "agreement 2",
+                "required": false
+            },
+            {
+                "name": "agreement_4",
+                "message": "agreement 4",
+                "required": false
+            },
+            {
+                "name": "agreement_5",
+                "message": "agreement 5",
+                "required": false
+            }
+        ]
+       
+    },
+    "categoryB": {
+        "title": "category B",
+        "items": [
+            {
+                "name": "agreement_6",
+                "message": "agreement 6",
+                "required": false
+            },{
+                "name": "agreement_7",
+                "message": "agreement 7",
+                "required": false
+            },{
+                "name": "agreement_8",
+                "message": "agreement 8",
+                "required": false
+            },
+            {
+                "name": "termsAndCondition",
+                "message": "Terms and conditions",
+                "required": true
+            }
+        ]
+    }
+}
+
